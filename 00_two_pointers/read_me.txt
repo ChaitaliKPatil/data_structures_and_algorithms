@@ -27,7 +27,7 @@ Repeat until pointers cross or reach the end.
 
 # Problem Name Leetcode
 1 Remove Duplicates from Sorted Array
-2 Two Sum II - Input Array Is Sorted
+2 Two Sum II - Input Array Is Sorted https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 3 Move Zeroes
 4 Reverse String
 5 Container With Most Water
